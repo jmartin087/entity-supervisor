@@ -1,0 +1,27 @@
+{
+  "name": "grom/entity-supervisor",
+  "description": "helper for combine/merge entity",
+  "type": "library",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Grom",
+      "email": "jmartin087@gmail.com"
+    }
+  ],
+  "require": {
+    "symfony/property-access": "^5.0"
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "autoload": {
+    "psr-4": {
+      "Grom\\EntitySupervisor\\": "src"
+    },
+    "files": []
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^8.4"
+  }
+}
