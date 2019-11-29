@@ -1,5 +1,5 @@
 {
-  "name": "grom/entity-supervisor",
+  "name": "g-rom/entity-supervisor",
   "description": "helper for combine/merge entity",
   "type": "library",
   "license": "proprietary",
